@@ -49,7 +49,15 @@ npm start
 ```
 Frontend-ul va rula pe http://localhost:3001.
 
+Functionarea aplicatiei:
+![](https://github.com/Adina8Gr/Art-Portfolio/blob/main/Art-Portfolio.gif)
 
+imaginile/iconuri folosite:
+https://www.flaticon.com/free-icons
+- Digital art icons created by bsd
+- Artist icons created by Paul J
+- Portfolio icons created by Freepik
+- Portfolio icons created by Smashicons 
 
 
 
