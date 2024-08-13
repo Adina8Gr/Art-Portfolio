@@ -1,5 +1,5 @@
 import React from 'react';
-import './HomePage.css'; // Importă fișierul CSS
+import './HomePage.css'; 
 import PortfolioList from '../components/PortfolioList';
 import portfolioIcon from '../images/portfolio (3).png';
 

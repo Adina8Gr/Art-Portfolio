@@ -1,17 +1,17 @@
 .container2 {
-    background-color: #f0f0f0; /* Culoare de fundal pentru conținutul central */
+    background-color: #f0f0f0; /* Culoare de fundal*/
     padding: 20px;
-    max-width: 95%; /* Marginile din stânga și dreapta vor fi mai mici */
-    margin: 20px auto; /* Marginile de sus și jos */
-    border-radius: 8px; /* Colțuri rotunjite */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Un efect subtil de umbră */
+    max-width: 95%; /* Marginile din stanga si dreapta*/
+    margin: 20px auto; /* Marginile de sus si jos */
+    border-radius: 8px; /* Colturi rotunjite */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* efectde umbra */
   }
   .container {
-    background-color: #9cd2dc; /* Culoare de fundal pentru conținutul central */
+    background-color: #9cd2dc; /* Culoare de fundal */
     padding: 20px;
-    max-width: 90%; /* Marginile din stânga și dreapta vor fi mai mici */
-    margin: 20px auto; /* Marginile de sus și jos */
-    border-radius: 8px; /* Colțuri rotunjite */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Un efect subtil de umbră */
+    max-width: 90%; /* Marginile din stanga si dreapta */
+    margin: 20px auto; /* Marginile de sus si jos */
+    border-radius: 8px; /* Colturi rotunjite */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* efect de umbră */
   }
   
