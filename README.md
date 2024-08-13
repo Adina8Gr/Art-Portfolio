@@ -32,6 +32,7 @@ npm install typescript@latest @nestjs/core@latest @nestjs/common@latest typeorm@
 cd ../frontend
 npm install
 npm install axios
+npm install @mui/material @emotion/react @emotion/styled
 ```
 ## Rulare
 **1. Pornire Backend:**
